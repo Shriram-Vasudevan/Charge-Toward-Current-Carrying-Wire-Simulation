@@ -1,6 +1,8 @@
 # ChargeTowardCurrentCarryingWire-Simulation
 A simple VPython simulation showing a charge move towards a current carrying wire
 
+Please do leave a star ⭐ if you found this interesting! Feedback is appreciated!
+
 # Link
 https://www.glowscript.org/#/user/shrirammvasudevan/folder/MyPrograms/program/ChargeTowardsCurrentCarryingWire
 
