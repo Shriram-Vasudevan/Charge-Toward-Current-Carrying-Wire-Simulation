@@ -1,6 +1,6 @@
 Web VPython 3.2
 
-scene = canvas(title='Ampere\'s Law Simulation: Current Carrying Wire', width=800, height=600, align = "left")
+scene = canvas(title='Charge Towards Current Carrying Wire', width=800, height=600, align = "left")
 
 
 # Constants
